@@ -232,7 +232,7 @@ Debes ejecutar el programa y demostrar el funcionamiento de cada una de las oper
 
 **Evidencia:**
 
-![Registro de zapatos](evidencias/prueba1.png)
+![Registro de zapatos](evidencia/prueba1.png)
 
 ### Prueba 2. Listar inventario
 
@@ -241,7 +241,7 @@ Debes ejecutar el programa y demostrar el funcionamiento de cada una de las oper
 
 **Evidencia:**
 
-![Listado de zapatos](evidencias/prueba2.png)
+![Listado de zapatos](evidencia/prueba2.png)
 
 ### Prueba 3. Buscar por ID
 
@@ -250,7 +250,7 @@ Debes ejecutar el programa y demostrar el funcionamiento de cada una de las oper
 
 **Evidencia:**
 
-![Búsqueda de zapatos](evidencias/prueba3.png)
+![Búsqueda de zapatos](evidencia/prueba3.png)
 
 ### Prueba 4. Actualizar precio
 
@@ -261,7 +261,7 @@ Debes ejecutar el programa y demostrar el funcionamiento de cada una de las oper
 
 **Evidencia:**
 
-![Actualización de precio](evidencias/prueba4.png)
+![Actualización de precio](evidencia/prueba4.png)
 
 ### Prueba 5. Eliminar zapato
 
@@ -270,7 +270,7 @@ Debes ejecutar el programa y demostrar el funcionamiento de cada una de las oper
 
 **Evidencia:**
 
-![Eliminación de zapato](evidencias/prueba5.png)
+![Eliminación de zapato](evidencia/prueba5.png)
 
 ### Prueba 6. Comprobar persistencia
 
@@ -279,7 +279,7 @@ Debes ejecutar el programa y demostrar el funcionamiento de cada una de las oper
 
 **Evidencia:**
 
-![Persistencia de datos](evidencias/prueba6.png)
+![Persistencia de datos](evidencia/prueba6.png)
 
 ### Pruebas con registros inexistentes
 
